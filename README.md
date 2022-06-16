@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nesiojunior
+- 👀 I’m interested in GNU and (R)
+- 🌱 I’m currently learning (R)
